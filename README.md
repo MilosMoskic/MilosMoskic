@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Milos Moskic!
 
-<!--
-**MilosMoskic/MilosMoskic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a passionate developer and software engineer with a strong focus on building practical, scalable, and maintainable applications. My projects span web development, backend APIs, and desktop applications, showcasing my versatility and commitment to clean architecture and solid design principles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+- **Programming Languages:** C#, JavaScript, Angular, Python
+- **Frameworks & Libraries:** .NET (WPF, ASP.NET MVC, Web API), Entity Framework
+- **Database Management:** SQL Server (including advanced relations and queries), MongoDB
+- **Architecture & Patterns:** Onion Architecture, Repository Pattern, SOLID Principles
+- **Tools & Platforms:** Visual Studio, Postman, Git, GitHub
+
+---
+
+## 🚀 Featured Projects
+### 🌟 [TrainingApp](https://github.com/MilosMoskic/TrainingApp)
+A WPF application to track CrossFit workouts, running sessions, weight monitoring, and healthy eating streaks. Features include:
+- Interactive dashboards with LiveCharts.
+- Data validation and user-friendly forms.
+- Modular design using Onion Architecture and Repository Pattern.
+
+### 📊 [MVC Expense Tracker](https://github.com/MilosMoskic/ExpenseTracker)
+A web application for personal finance management:
+- Track income, expenses, and budgets.
+- Implemented using ASP.NET MVC and SQL Server for persistence.
+
+### 📚 [Library Management API](https://github.com/MilosMoskic/LibraryProject)
+A RESTful API for managing library resources, including books, members, and borrowing history. Key features include:
+- **Authentication & Authorization:** Secure access using role-based authorization (e.g., Admin, Librarian, Member).
+- **Comprehensive CRUD Operations:** Manage books, authors, and user accounts with data validation.
+- **Sorting & Filter:** Easily search books by their properties.
+- **Clean Architecture:** Built using Onion Architecture, Repository Pattern, and SOLID principles.
+
+
+### 🏀 Basketball Tournament Simulator
+An algorithm-driven simulation for basketball tournaments:
+- Simulates matches based on probabilities.
+- Implements ranking systems, knockout stages, and medal determination.
+
+---
+
+## 📚 Learning & Interests
+- Exploring advanced backend APIs and modern architectural patterns.
+- Experimenting with AI/ML integration in applications.
+- Working on data visualization techniques and UX optimization.
+
+---
+
+## 📫 Let's Connect!
+- **LinkedIn:** [linkedin.com/in/milosmoskic](https://linkedin.com/in/milosmoskic)
+- **GitHub:** [github.com/MilosMoskic](https://github.com/MilosMoskic)
+- **Email:** milosmoskic147@gmail.com
+
+---
+
+⚡ *"Building software is not just about code; it's about crafting experiences and solving real-world problems."*
