@@ -32,12 +32,6 @@ A RESTful API for managing library resources, including books, members, and borr
 - **Sorting & Filter:** Easily search books by their properties.
 - **Clean Architecture:** Built using Onion Architecture, Repository Pattern, and SOLID principles.
 
-
-### 🏀 Basketball Tournament Simulator
-An algorithm-driven simulation for basketball tournaments:
-- Simulates matches based on probabilities.
-- Implements ranking systems, knockout stages, and medal determination.
-
 ---
 
 ## 📚 Learning & Interests
