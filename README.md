@@ -2,6 +2,9 @@
 
 🎓 I'm a passionate developer and software engineer from Vršac, Serbia with a strong focus on building practical, scalable, and maintainable applications. My projects span web development, backend APIs, and desktop applications, showcasing my versatility and commitment to clean architecture and solid design principles.
 
+
+Check out my personal website: [milosmoskic.netlify.app](https://milosmoskic.netlify.app/)
+
 ---
 
 ## 🛠️ Skills & Technologies
